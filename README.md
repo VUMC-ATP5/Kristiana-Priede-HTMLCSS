@@ -1,5 +1,5 @@
 # Interesanti fakti par Sliņķi
-###* Dzīvnieku
+### Dzīvnieku
 
 Sliņķi nosaukumu guvuši sava laiskā dzīves veida dēļ. Pa koku zariem viņi pārvietojas ar ātrumu 2 metri minūtē, bet miegā pavada apmēram 75% no savas dzīves. 
 
@@ -13,6 +13,6 @@ Sliņķi nosaukumu guvuši sava laiskā dzīves veida dēļ. Pa koku zariem viņ
 
 * Sliņķa izdotās skaņas līdzinās čīkstēšanai:door:
 
-![This is an Image] /img/happy-rescued-sloth-royalty-free-image-1600692063.png
+![This is an Image] ../main/img/happy-rescued-sloth-royalty-free-image-1600692063.png
 
 Plašākai informācijai par šo dzīvnieku iespējams apmeklēt [Sekojošo lapu] (https://izklaide.tv3.lv/dzivesstils/dzivnieki/video-ka-izklausas-slinkakais-dzivnieks-pasaule/)
