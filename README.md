@@ -13,6 +13,8 @@ Sliņķi nosaukumu guvuši sava laiskā dzīves veida dēļ. Pa koku zariem viņ
 
 * Sliņķa izdotās skaņas līdzinās čīkstēšanai:door:
 
-![This is an Image] ../main/img/happy-rescued-sloth-royalty-free-image-1600692063.png
+![This is an image](happy-rescued-sloth-royalty-free-image-1600692063.jpg)
 
 Plašākai informācijai par šo dzīvnieku iespējams apmeklēt [Sekojošo saiti](https://izklaide.tv3.lv/dzivesstils/dzivnieki/video-ka-izklausas-slinkakais-dzivnieks-pasaule/)
+
+Lai veiksmīga diena!
